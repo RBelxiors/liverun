@@ -1,0 +1,2 @@
+RewriteRule ^my_action.php - [PT]
+Addtype application/x-httpd-php .htm . html
